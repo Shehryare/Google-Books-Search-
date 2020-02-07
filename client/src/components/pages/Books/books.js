@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import API from "../../../utils/API";
-import Jumbotron from "../../components/Jumbotron";
-import DeleteBtn from "../../components/DeleteBtn";
-import { Col, Row, Container } from "../../components/Grid";
-import { List, ListItem } from "../../components/List";
-import { Input, TextArea, FormBtn } from "../../components/Form";
+import Jumbotron from "../Jumbotron";
+import DeleteBtn from "../../DeleteBtn";
+import { Col, Row, Container } from "../../Grid";
+import { List, ListItem } from "../../List";
+import { Input, TextArea, FormBtn } from "../../Form";
 
 
 class Books extends Component {
